@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+    "firstName": "John",
+    "lastName": "Smith",
+     "email" : "johnSmith@gmail.com" , 
+     "gender": "male" , 
+     "picture": "/photo3.png" 
+}
+    ]
+}
+
+
+
